@@ -2,7 +2,7 @@
 /*
  * =====================================================================================
  *
- *       Filename:  warc.cpp
+ *       Filename:  warcer.cpp
  *
  *    Description:  extracts content from warc archives  
  *
